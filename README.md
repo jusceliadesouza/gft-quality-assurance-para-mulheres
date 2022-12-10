@@ -7,7 +7,7 @@ O bootcamp ideal para pessoas que se identificam como mulheres e que estão busc
 ## Módulos
 
 - Fundamentos de Qualidade e Desenvolvimento de Software
-- Dominando Algorítmos Básicos com Desafios de Codigo Java
+- Dominando Algoritmos Básicos com Desafios de Codigo Java
 - Programação Orientada a Objetos com Java
 - Explorando os Principais Tipo de Teste na Prática
 
