@@ -25,5 +25,7 @@ public class FilaBanco {
     for (int i = 0; i < nomesFila.length; i++) {
       System.out.printf("%s - esta na posicao: %d\n", nomesFila[i], (i + 1));
     }
+
+    nome.close();
   }
 }

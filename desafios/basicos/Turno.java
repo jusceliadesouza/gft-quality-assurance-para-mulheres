@@ -29,5 +29,7 @@ public class Turno {
         System.out.println("Valor Invalido!");
         break;
     }
+
+    leitor.close();
   }
 }

@@ -24,6 +24,8 @@ public class MenorMultiplo {
     }
 
     System.out.printf("O resultado é: %d", menorMultiplo);
+
+    scanner.close();
   }
 
 }

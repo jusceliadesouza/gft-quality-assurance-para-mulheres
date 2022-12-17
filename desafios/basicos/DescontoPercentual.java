@@ -22,5 +22,7 @@ public class DescontoPercentual {
     double desconto = ((M - D) / M) * 100;
 
     System.out.printf("O desconto foi de %.0f%%", desconto);
+
+    input.close();
   }
 }
